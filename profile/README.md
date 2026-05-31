@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&labelColor=333940" alt="Supabase">
     </a>
     <a href="https://github.com/DigitalHeritage-Lab/MemoryMap/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-blue?logo=github&labelColor=333940" alt="MIT License">
+        <img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue.svg?logo=github&labelColor=333940" alt="PolyForm Noncommercial License">
     </a>
 </p>
 
