@@ -18,36 +18,10 @@
     <a href="https://github.com/DigitalHeritage-Lab">
         <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&labelColor=333940" alt="Supabase">
     </a>
-    <a href="https://github.com/DigitalHeritage-Lab/MemoryMap/blob/main/LICENSE">
-        <img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial-blue.svg?logo=github&labelColor=333940" alt="PolyForm Noncommercial License">
-    </a>
+  
 </p>
 
----
 
-## 🏛️ Наші проєкти
-
-<table>
-  <tr>
-    <th align="left">Репозиторій</th>
-    <th align="left">Опис</th>
-    <th align="left">Стек</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/DigitalHeritage-Lab/MemoryMap">
-        <b>MemoryMap</b>
-      </a>
-    </td>
-    <td>Кросплатформний додаток для оцифрування та картування некрополів і поховань України</td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase">
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🛠️ Технологічний стек
 
@@ -57,9 +31,3 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
-## 🤝 Долучитися
-
-Зацікавлені у збереженні спадщини чи хочете зробити внесок у проєкт?  
-Ознайомтеся з нашим [CONTRIBUTING.md](https://github.com/DigitalHeritage-Lab/MemoryMap/blob/main/.github/CONTRIBUTING.md).
