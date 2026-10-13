@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/DigitalHeritage-Lab/MemoryMap/actions/workflows/ci.yml">
-        <img src="https://img.shields.io/github/actions/workflow/status/DigitalHeritage-Lab/MemoryMap/ci.yml?event=push&branch=main&label=CI&labelColor=333940&logo=github&color=10B981" alt="CI Status">
-    </a>
+  
     <a href="https://github.com/DigitalHeritage-Lab">
         <img src="https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter&logoColor=white&labelColor=333940" alt="Flutter">
     </a>
