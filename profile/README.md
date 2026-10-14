@@ -1,24 +1,3 @@
-<p align="center">
-    <img src="https://avatars.githubusercontent.com/u/288472489?v=4" width="120" alt="DigitalHeritage Lab Logo"/>
-</p>
-
-<h2 align="center">DigitalHeritage Lab</h2>
-
-<p align="center">
-  Зберігаємо культурну та історичну спадщину України через цифрові технології
-</p>
-
-<p align="center">
-  
-    <a href="https://github.com/DigitalHeritage-Lab">
-        <img src="https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter&logoColor=white&labelColor=333940" alt="Flutter">
-    </a>
-    <a href="https://github.com/DigitalHeritage-Lab">
-        <img src="https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white&labelColor=333940" alt="Supabase">
-    </a>
-  
-</p>
-
 
 
 ## 🛠️ Технологічний стек
